@@ -36,7 +36,7 @@
 
 \geometry{margin=1in}
 
-\titleformat{\section}{\normalfont\Large\bfseries}{Section~\thesection: }{1em}{}
+% \titleformat{\section}{\normalfont\Large\bfseries}{\thesection.}{1em}{}
 \AtAppendix{\titleformat{\section}{\normalfont\Large\bfseries}{Appendix~\thesection: }{1em}{}}
 
 \hypersetup{
